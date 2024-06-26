@@ -1,1 +1,1 @@
-{"labelColorDict": {"bug": "#d73a4a", "documentation": "#0075ca", "duplicate": "#cfd3d7", "enhancement": "#a2eeef", "good first issue": "#7057ff", "help wanted": "#008672", "invalid": "#e4e669", "question": "#d876e3", "wontfix": "#ffffff"}}
+{"P1": {"labels": ["Windows"], "postTitle": "Windows 7 SP1 \u7b80\u4f53\u4e2d\u6587\u7248 2024.03", "postUrl": "post/Windows%207%20SP1%20-jian-ti-zhong-wen-ban-%202024.03.html", "createdDate": "2024-06-26", "dateLabelColor": "#bc4c00"}, "labelColorDict": {"docker": "#D93F0B", "Ubuntu": "#1D76DB", "Windows": "#1D76DB"}}
