@@ -10,11 +10,14 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="#### 配置Docker镜像源
+
 - 如果不存在/etc/docker/daemon.json这个配置文件，可以直接使用下面的命令：
+
 **创建目录**
 ~~~
 sudo mkdir -p /etc/docker
 ~~~
+
 写入镜像配置
 ~~~
 sudo tee /etc/docker/daemon.json <<-'EOF'
@@ -28,13 +31,17 @@ sudo tee /etc/docker/daemon.json <<-'EOF'
 }
 EOF
 ~~~
+
 **重启docker服务**
 ~~~
 sudo systemctl daemon-reload
 sudo systemctl restart docker
 ~~~
+
 -----
+
 - 如果已经存在/etc/docker/daemon.json这个配置文件，手动复制下面的镜像地址加如到配置中：
+
 ~~~
 'registry-mirrors': [
         'https://docker.m.daocloud.io',
@@ -45,17 +52,21 @@ sudo systemctl restart docker
 ~~~
 
 **重启Docker服务：**
+
 ~~~
 sudo systemctl daemon-reload
 sudo systemctl restart docker
 ~~~。">
 <meta property="og:title" content="Docker Hub 国内镜像设置方法，解决Docker镜像拉取失败!">
 <meta property="og:description" content="#### 配置Docker镜像源
+
 - 如果不存在/etc/docker/daemon.json这个配置文件，可以直接使用下面的命令：
+
 **创建目录**
 ~~~
 sudo mkdir -p /etc/docker
 ~~~
+
 写入镜像配置
 ~~~
 sudo tee /etc/docker/daemon.json <<-'EOF'
@@ -69,13 +80,17 @@ sudo tee /etc/docker/daemon.json <<-'EOF'
 }
 EOF
 ~~~
+
 **重启docker服务**
 ~~~
 sudo systemctl daemon-reload
 sudo systemctl restart docker
 ~~~
+
 -----
+
 - 如果已经存在/etc/docker/daemon.json这个配置文件，手动复制下面的镜像地址加如到配置中：
+
 ~~~
 'registry-mirrors': [
         'https://docker.m.daocloud.io',
@@ -86,6 +101,7 @@ sudo systemctl restart docker
 ~~~
 
 **重启Docker服务：**
+
 ~~~
 sudo systemctl daemon-reload
 sudo systemctl restart docker
@@ -150,9 +166,9 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 <div class="markdown-body" id="postBody"><h4>配置Docker镜像源</h4>
 <ul>
-<li>如果不存在/etc/docker/daemon.json这个配置文件，可以直接使用下面的命令：<br>
-<strong>创建目录</strong></li>
+<li>如果不存在/etc/docker/daemon.json这个配置文件，可以直接使用下面的命令：</li>
 </ul>
+<p><strong>创建目录</strong></p>
 <pre class="notranslate"><code class="notranslate">sudo mkdir -p /etc/docker
 </code></pre>
 <p>写入镜像配置</p>
