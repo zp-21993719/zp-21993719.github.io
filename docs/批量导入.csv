@@ -1,0 +1,3 @@
+Plu_No,SalesMode,MarkFlag,DateFlag,TimeFlag,PosSelect,OpenPrice,ExpTimeFlag,ForcedTare,WrappingMode,WrappingSpeed,Volume,LabellingPos,Rotate,LabelFormat,BarCodeNum,BestBeforeFlag,PackQuant,Tare,ShelfLife,ExpTime,PackTime,Posflag,Message1,Message7,Coupon,Nutrition,TaxNo,Random,TrayNo,Logo1,Logo2,PropTare,BestBefore,UnitPrice,Weight,CostPrice,MarkPrice,UpperLimit,LowerLimit,ExMessage2,ExMessage3,NutritionID,ItemCode,PosCode,RegCode,Dept,Group,Desc
+1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,26,0,0,0,0,0,0,1,0,0,0,0,1000,0,0,0,0,0,0,0,0,1,00001,0000,0,0,C1£²£¶³ÆÖØ
+2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,25,0,0,0,0,0,0,1,0,0,0,0,1000,0,0,0,0,0,0,0,0,2,00002,0000,0,0,C1£²£µ¼Æ¼þ
