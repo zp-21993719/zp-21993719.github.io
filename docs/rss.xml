@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兩呎七吋半-博客</title><link>https://zp-21993719.github.io</link><description>我是兩呎七吋半博主，分享一些个人心得！</description><copyright>兩呎七吋半-博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://zdir.whzbyw.cn:8181/public/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87.ico</url><title>avatar</title><link>https://zp-21993719.github.io</link></image><lastBuildDate>Sun, 03 May 2026 10:33:41 +0000</lastBuildDate><managingEditor>兩呎七吋半-博客</managingEditor><ttl>60</ttl><webMaster>兩呎七吋半-博客</webMaster><item><title>银秤一体机报：初始化失败！</title><link>https://zp-21993719.github.io/post/yin-cheng-yi-ti-ji-bao-%EF%BC%9A-chu-shi-hua-shi-bai-%EF%BC%81.html</link><description>## 银秤一体机报：初始化失败！
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兩呎七吋半-博客</title><link>https://zp-21993719.github.io</link><description>我是兩呎七吋半博主，分享一些个人心得！</description><copyright>兩呎七吋半-博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://zdir.whzbyw.cn:8181/public/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87.ico</url><title>avatar</title><link>https://zp-21993719.github.io</link></image><lastBuildDate>Mon, 17 Aug 2026 09:38:45 +0000</lastBuildDate><managingEditor>兩呎七吋半-博客</managingEditor><ttl>60</ttl><webMaster>兩呎七吋半-博客</webMaster><item><title>银秤一体机 商品信息同步设置</title><link>https://zp-21993719.github.io/post/yin-cheng-yi-ti-ji-%20-shang-pin-xin-xi-tong-bu-she-zhi.html</link><description>## 进入设置页面
+
+- 点击右上角**三个点**进入设置
+
+![01.jpg](https://raw.githubusercontent.com/zp-21993719/zp-21993719.github.io/refs/heads/main/docs/01.jpg)
+
+- 点击**设置**
+
+![02.jpg](https://zdir.whzbyw.cn:8181/public/%E5%B7%A5%E4%BD%9C%E9%99%84%E4%BB%B6/%E9%93%B6%E7%A7%A4%E4%B8%80%E4%BD%93%E6%9C%BA-%E5%90%8C%E6%AD%A5/02.jpg)
+
+- 输入密码`666666`后**确定**
+
+![03.jpg](https://zdir.whzbyw.cn:8181/public/%E5%B7%A5%E4%BD%9C%E9%99%84%E4%BB%B6/%E9%93%B6%E7%A7%A4%E4%B8%80%E4%BD%93%E6%9C%BA-%E5%90%8C%E6%AD%A5/03.jpg)
+
+- 点击进入`数据管理`
+
+![04.jpg](https://zdir.whzbyw.cn:8181/public/%E5%B7%A5%E4%BD%9C%E9%99%84%E4%BB%B6/%E9%93%B6%E7%A7%A4%E4%B8%80%E4%BD%93%E6%9C%BA-%E5%90%8C%E6%AD%A5/04.jpg)
+
+## 删除原有展示图片数据
+
+**基于同步过程中无法覆盖信息，因此原收银机已有展示图片数据，务必做删除操作后再进行同步。</description><guid isPermaLink="true">https://zp-21993719.github.io/post/yin-cheng-yi-ti-ji-%20-shang-pin-xin-xi-tong-bu-she-zhi.html</guid><pubDate>Mon, 17 Aug 2026 09:23:23 +0000</pubDate></item><item><title>银秤一体机报：初始化失败！</title><link>https://zp-21993719.github.io/post/yin-cheng-yi-ti-ji-bao-%EF%BC%9A-chu-shi-hua-shi-bai-%EF%BC%81.html</link><description>## 银秤一体机报：初始化失败！
 
 ### 解决办法
 
